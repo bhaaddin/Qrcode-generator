@@ -1,0 +1,12 @@
+{
+  "trida": "4.B",
+  "system": { "adapter": "kod" },
+  "platba": {
+    "iban": "CZ6508000000192000145399",
+    "mena": "CZK",
+    "datumPlesu": "2027-02-19",
+    "delkaCisla": 4,
+    "zprava": "Ples {kod}"
+  },
+  "banka": { "adapter": "vypis" }
+}
